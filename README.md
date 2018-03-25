@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi my fellow developers
+
+I make some change in this projects: Hello World
